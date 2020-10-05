@@ -1,0 +1,1 @@
+python ../jemdoc_mathjax/jemdoc index.jemdoc

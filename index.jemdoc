@@ -1,0 +1,68 @@
+==Canhui Chen （陈灿辉）
+
+~~~
+{}{img_left}{photos/lbxx2.jpg}{}{100}{160}{}
+Master student (starting from August 2021),\n 
+[http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)], \n
+[http://http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University]\n
+
+Email: chench296@mail2.sysu.edu.cn
+~~~
+
+== About Me
+
+I am now a 4-th year bachelor majored in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science], [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-Sen (Zhongshan) University], Guangzhou, China (with a rank of 1/174 for the first three years during my undergraduate study).
+
+I am going to begin my post-graduate study in [http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)], [http://http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University], majored in Computer Sciences.
+
+== Education
+
+*B.S. degree, Sun Yat-Sen (Zhongshan) University*
+- majored in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science] (ranked 1/174)
+- Yat-Sen Class in Yat-sen Honor College, an elite liberal undergraduate institution of SYSU
+
+== Research Interests
+I have a wide range of interests in game theory, mechanism design, multi-agent systems and blockchain systems. And my research style is interdisciplinary in general. Particularly, I am leveraging mechanism design, mathematics optimization, economics analysis, algorithms design, system evaluation and implementation to tackle the multi-agent systems, blockchain systems and game related problems. I will be very happy if you want to discuss these interdisciplinary fields with me. I am always enthusiastic to investigate different research topics. :)
+
+
+== Selected Awards
+- National Scholarship, 2019
+- Meritorious Winner of Interdisciplinary Contest In Modeling, 2019
+- First Prize of SYSU Outstanding Student Scholarship, 2019
+
+== Publications 
+~~~
+{}{img_left}{figures/paper_ZD.png}{}{200}{100}{}
+*Canhui Chen*, Yihong Ling, Deyang Zhang, Nini Shi, Yunong Zhang, "Noisy Zhang-Dynamics (ZD) Method for Genesio Chaotic (GC) System Synchronization: Elegant Analyses and Unequal-Parameter Extension," Proceedings of IEEE Symposium Series on Computational Intelligence (SSCI), 2019.
+~~~
+
+== Working Papers
+~~~
+{}{img_left}{figures/paper_fork.png}{}{200}{100}{}
+*Impact of Temporary Fork on the Evolution of Mining Pools in Blockchain Network: A Modeling Analysis*
+~~~
+
+~~~
+{}{img_left}{figures/paper_sharding.png}{}{200}{100}{}
+*User Distributions in Shard-based Blockchain Network: Queueing Modeling and Game Analysis*
+~~~
+
+~~~
+{}{img_left}{figures/paper_lightning.png}{}{200}{100}{}
+*Game Theoretical Analysis of the Flood \& Loot Attack on the Lightning Network*
+~~~
+
+~~~
+{}{img_left}{figures/paper_sinkhorn.png}{}{200}{100}{}
+*Scaling of time-varying matrix applied to optimal transport*
+~~~
+
+== Open Projects
+
+If you are interested in the following projects, please contact me. I am always looking forward to potential collaborators to do some interesting work.
+
+~~~
+{}{img_left}{figures/project_rainfall.jpg}{}{200}{100}{}
+*Rainfall Algorithm: A novel nature-inspired meta-heuristic optimization algorithm*\n
+I independently designed and proposed this heuristic algorithm in my sophomore year inspired by the rainy climate in Guangzhou, China. I was surprised to find that this heuristic algorithm can achieve high performance in solving the Steiner tree problem (NP-complete problem). Therefore, I plan to investigate the performance of this algorithm and provide some theoretical analysis. 
+~~~
