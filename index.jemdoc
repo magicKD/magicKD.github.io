@@ -1,4 +1,4 @@
-==Canhui Chen
+==Canhui Chen （陈灿辉）
 
 ~~~
 {}{img_left}{photos/lbxx2.jpg}{}{100}{160}{}
@@ -26,21 +26,25 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 
 
 == Selected Awards
-- National Scholarship, 2019
+- National Scholarship, 2019 & 2020
 - Meritorious Winner of Interdisciplinary Contest In Modeling, 2019
-- First Prize of SYSU Outstanding Student Scholarship, 2019
+- First Prize of SYSU Outstanding Student Scholarship, 2019 & 2020
+- Li Xuerou Foundation Scholarship, 2020 (only 12 recipients in SYSU expect the School of Management, the only one in School of Data and Computer Science, SYSU)
 
 == Publications 
+
+~~~
+{}{img_left}{figures/paper_fork.png}{}{200}{100}{}
+*Canhui Chen*, Xu Chen, Jiangshan Yu, Weigang Wu, Di Wu, "Impact of Temporary Fork on the Evolution of Mining Pools in Blockchain Network: A Modeling Analysis," IEEE Transactions on Network Science and Engineering (TNSE), to appear.
+~~~
+
 ~~~
 {}{img_left}{figures/paper_ZD.png}{}{200}{100}{}
 *Canhui Chen*, Yihong Ling, Deyang Zhang, Nini Shi, Yunong Zhang, "Noisy Zhang-Dynamics (ZD) Method for Genesio Chaotic (GC) System Synchronization: Elegant Analyses and Unequal-Parameter Extension," Proceedings of IEEE Symposium Series on Computational Intelligence (SSCI), 2019.
 ~~~
 
 == Working Papers
-~~~
-{}{img_left}{figures/paper_fork.png}{}{200}{100}{}
-*Impact of Temporary Fork on the Evolution of Mining Pools in Blockchain Network: A Modeling Analysis*
-~~~
+
 
 ~~~
 {}{img_left}{figures/paper_sharding.png}{}{200}{100}{}
