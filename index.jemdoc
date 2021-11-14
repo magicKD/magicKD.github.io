@@ -2,18 +2,18 @@
 
 ~~~
 {}{img_left}{photos/lbxx2.jpg}{}{100}{160}{}
-Master student (starting from August 2021),\n 
+Master student,\n 
 [http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)], \n
 [http://http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University]\n
 
-Email: chench296@mail2.sysu.edu.cn
+Email: chen-ch21@mails.tsinghua.edu.cn
 ~~~
 
 == About Me
 
-I am now a 4-th year bachelor majored in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science], [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-Sen (Zhongshan) University], Guangzhou, China (with a rank of 1/174 for the first three years during my undergraduate study).
+I received my bachelor degree in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science], [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-Sen (Zhongshan) University], Guangzhou, China (with a rank of 1/174 for the first three years during my undergraduate study).
 
-I am going to begin my post-graduate study in [http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)], [http://http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University], majored in Computer Sciences.
+I am a master student majored in Computer Sciences in [http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)], [http://http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University].
 
 == Education
 
@@ -34,22 +34,28 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 == Publications 
 
 ~~~
+{}{img_left}{figures/paper_sharding.png}{}{200}{100}{}
+*Canhui Chen*, Qian Ma, Xu Chen, Jianwei Huang, "User Distributions in Shard-based Blockchain Network: Queueing Modeling, Game Analysis, and Protocol Design," Proceedings of the Twenty-second International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc'21). 2021.
+\n
+\[[./papers/mobihoc21.pdf PDF]\] \[[./slides/mobihoc21.pdf slides]\]
+~~~
+
+~~~
 {}{img_left}{figures/paper_fork.png}{}{200}{100}{}
-*Canhui Chen*, Xu Chen, Jiangshan Yu, Weigang Wu, Di Wu, "Impact of Temporary Fork on the Evolution of Mining Pools in Blockchain Network: A Modeling Analysis," IEEE Transactions on Network Science and Engineering (TNSE), to appear.
+*Canhui Chen*, Xu Chen, Jiangshan Yu, Weigang Wu, Di Wu, "Impact of Temporary Fork on the Evolution of Mining Pools in Blockchain Network: A Modeling Analysis," IEEE Transactions on Network Science and Engineering (TNSE), 2020.
+\n
+\[[https://arxiv.org/pdf/2011.07238.pdf PDF]\]
 ~~~
 
 ~~~
 {}{img_left}{figures/paper_ZD.png}{}{200}{100}{}
 *Canhui Chen*, Yihong Ling, Deyang Zhang, Nini Shi, Yunong Zhang, "Noisy Zhang-Dynamics (ZD) Method for Genesio Chaotic (GC) System Synchronization: Elegant Analyses and Unequal-Parameter Extension," Proceedings of IEEE Symposium Series on Computational Intelligence (SSCI), 2019.
+\n
+\[[./papers/ZD.pdf PDF]\]
 ~~~
 
 == Working Papers
 
-
-~~~
-{}{img_left}{figures/paper_sharding.png}{}{200}{100}{}
-*User Distributions in Shard-based Blockchain Network: Queueing Modeling and Game Analysis*
-~~~
 
 ~~~
 {}{img_left}{figures/paper_lightning.png}{}{200}{100}{}
