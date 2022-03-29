@@ -11,7 +11,7 @@ Email: chen-ch21@mails.tsinghua.edu.cn
 
 == About Me
 
-I received my bachelor degree in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science], [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-Sen (Zhongshan) University], Guangzhou, China (with a rank of 1/174 for the first three years during my undergraduate study).
+I received my bachelor degree in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science], [http://www.sysu.edu.cn/2012/en/index.htm Sun Yat-Sen (Zhongshan) University], Guangzhou, China (with a rank of 1/174 during my undergraduate study).
 
 I am a master student majored in Computer Sciences in [http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)], [http://http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University].
 
@@ -22,7 +22,7 @@ I am a master student majored in Computer Sciences in [http://http://http://iiis
 - Yat-Sen Class in Yat-sen Honor College, an elite liberal undergraduate institution of SYSU
 
 == Research Interests
-I have a wide range of interests in game theory, mechanism design, multi-agent systems and blockchain systems. And my research style is interdisciplinary in general. Particularly, I am leveraging mechanism design, mathematics optimization, economics analysis, algorithms design, system evaluation and implementation to tackle the multi-agent systems, blockchain systems and game related problems. I will be very happy if you want to discuss these interdisciplinary fields with me. I am always enthusiastic to investigate different research topics. :)
+I have a wide range of interests in game theory, mechanism design, multi-agent systems, distributed system and blockchain systems. And my research style is interdisciplinary in general. Particularly, I am leveraging mechanism design, mathematics optimization, economics analysis, algorithms design, system evaluation and implementation to tackle the multi-agent systems, blockchain systems and game related problems. I will be very happy if you want to discuss these interdisciplinary fields with me. I am always enthusiastic to investigate different research topics. :)
 
 
 == Selected Awards
@@ -54,25 +54,20 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 \[[./papers/ZD.pdf PDF]\]
 ~~~
 
-== Working Papers
-
-
-~~~
-{}{img_left}{figures/paper_lightning.png}{}{200}{100}{}
-*Game Theoretical Analysis of the Flood \& Loot Attack on the Lightning Network*
-~~~
-
 ~~~
 {}{img_left}{figures/paper_sinkhorn.png}{}{200}{100}{}
-*Scaling of time-varying matrix applied to optimal transport*
+Jianzhen Xiao\*, *Canhui Chen\**, Yunong Zhang, "Continuous ZND (Zhang Neural Dynamics) Model for Generalized Sinkhorn Scaling of Time-Varying Matrix," IEEE 11th International Conference on Intelligent Control and Information Processing (ICICIP), 2021. (\* denotes the equal contributions)
+\n
+\[[./papers/sinkhorn.pdf PDF]\]
 ~~~
 
-== Open Projects
+== Professional Activities
 
-If you are interested in the following projects, please contact me. I am always looking forward to potential collaborators to do some interesting work.
+- *Technical Reviewer*
 
-~~~
-{}{img_left}{figures/project_rainfall.jpg}{}{200}{100}{}
-*Rainfall Algorithm: A novel nature-inspired meta-heuristic optimization algorithm*\n
-I independently designed and proposed this heuristic algorithm in my sophomore year inspired by the rainy climate in Guangzhou, China. I was surprised to find that this heuristic algorithm can achieve high performance in solving the Steiner tree problem (NP-complete problem). Therefore, I plan to investigate the performance of this algorithm and provide some theoretical analysis. 
-~~~
+-- IEEE Journal on Selected Areas in Communications (JSAC)
+-- The 16th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2021)\n
+
+- *Teaching Assistant*
+
+-- Game Theory, Institute for Interdisciplinary Information Sciences(IIIS), Tsinghua
