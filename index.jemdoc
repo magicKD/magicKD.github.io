@@ -1,4 +1,4 @@
-==Canhui Chen （陈灿辉）
+==Canhui Chen (陈灿辉)
 
 ~~~
 {}{img_left}{photos/lbxx2.jpg}{}{100}{160}{}
@@ -34,6 +34,20 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 == Publications 
 
 ~~~
+{}{img_left}{figures/paper_tips.png}{}{200}{100}{}
+*Canhui Chen*, Xu Chen, Zhixuan Fang, "TIPS: Transaction Inclusion Protocol with Signaling in DAG-Based Blockchain," IEEE Journal on Selected Areas in Communications (JSAC). 2022.
+\n
+\[[./papers/tips_DAG.pdf PDF]\] \[[./slides/slides_tips.pdf slides]\]
+~~~
+
+~~~
+{}{img_left}{figures/paper_pcn.png}{}{200}{100}{}
+Jiayuan Liu\*, *Canhui Chen\**, Lulu Zhou, Zhixuan Fang, "Real-Time Recursive Routing in Payment Channel Network: A Bidding-based Design," Proceedings of the 20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt'22). 2022. (\* denotes the equal contributions)
+\n
+\[[./papers/tips_DAG.pdf PDF]\]
+~~~
+
+~~~
 {}{img_left}{figures/paper_sharding.png}{}{200}{100}{}
 *Canhui Chen*, Qian Ma, Xu Chen, Jianwei Huang, "User Distributions in Shard-based Blockchain Network: Queueing Modeling, Game Analysis, and Protocol Design," Proceedings of the Twenty-second International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc'21). 2021.
 \n
@@ -66,6 +80,7 @@ Jianzhen Xiao\*, *Canhui Chen\**, Yunong Zhang, "Continuous ZND (Zhang Neural Dy
 - *Technical Reviewer*
 
 -- IEEE Journal on Selected Areas in Communications (JSAC)
+-- Frontiers of Computer Science (FCS)
 -- The 16th International Conference on Wireless Algorithms, Systems, and Applications (WASA 2021)\n
 
 - *Teaching Assistant*
