@@ -6,7 +6,9 @@ Master student,\n
 [http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)], \n
 [http://http://www.tsinghua.edu.cn/publish/thu2018en/index.html Tsinghua University]\n
 
-Email: chen-ch21@mails.tsinghua.edu.cn
+Email: chen-ch21@mails.tsinghua.edu.cn \n
+
+\[[https://scholar.google.com.hk/citations?user=62CCRJUAAAAJ&hl=zh-CN Google Scholar]\]
 ~~~
 
 == About Me
@@ -17,9 +19,11 @@ I am a master student majored in Computer Sciences in [http://http://http://iiis
 
 == Education
 
-*B.S. degree, Sun Yat-Sen (Zhongshan) University*
-- majored in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science] (ranked 1/174)
-- Yat-Sen Class in Yat-sen Honor College, an elite liberal undergraduate institution of SYSU
+- *B.S. degree, Sun Yat-Sen (Zhongshan) University*
+    -- majored in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science] (ranked 1/174)
+    -- Yat-Sen Class in Yat-sen Honor College, an elite liberal undergraduate institution of SYSU
+
+- *Master student, Tsinghua University*
 
 == Research Interests
 I have a wide range of interests in game theory, mechanism design, multi-agent systems, distributed system and blockchain systems. And my research style is interdisciplinary in general. Particularly, I am leveraging mechanism design, mathematics optimization, economics analysis, algorithms design, system evaluation and implementation to tackle the multi-agent systems, blockchain systems and game related problems. I will be very happy if you want to discuss these interdisciplinary fields with me. I am always enthusiastic to investigate different research topics. :)
@@ -27,11 +31,22 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 
 == Selected Awards
 - National Scholarship, 2019 & 2020
-- Meritorious Winner of Interdisciplinary Contest In Modeling, 2019
 - First Prize of SYSU Outstanding Student Scholarship, 2019 & 2020
 - Li Xuerou Foundation Scholarship, 2020 (only 12 recipients in SYSU expect the School of Management, the only one in School of Data and Computer Science, SYSU)
 
 == Publications 
+
+~~~
+{}{img_left}{figures/gacha.png}{}{200}{100}{}
+*Canhui Chen* and Zhixuan Fang, "Gacha Game Analysis and Design," Proceedings of ACM SIGMETRICS (SIGMETRICS), June 2023.
+~~~
+
+~~~
+{}{img_left}{figures/pocw.png}{}{200}{100}{}
+*Canhui Chen\**, Zerui Cheng\*, Shutong Qu, Zhixuan Fang, "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm," Preprint.
+\n
+\[[https://arxiv.org/pdf/2211.06669.pdf PDF]\]
+~~~
 
 ~~~
 {}{img_left}{figures/paper_tips.png}{}{200}{100}{}
@@ -44,7 +59,7 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 {}{img_left}{figures/paper_pcn.png}{}{200}{100}{}
 Jiayuan Liu\*, *Canhui Chen\**, Lulu Zhou, Zhixuan Fang, "Real-Time Recursive Routing in Payment Channel Network: A Bidding-based Design," Proceedings of the 20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (WiOpt'22). 2022. (\* denotes the equal contributions)
 \n
-\[[./papers/tips_DAG.pdf PDF]\]
+\[[./papers/wiopt_pcn.pdf PDF]\]
 ~~~
 
 ~~~
