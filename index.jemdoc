@@ -19,11 +19,12 @@ I am a master student majored in Computer Sciences in [http://http://http://iiis
 
 == Education
 
-- *B.S. degree, Sun Yat-Sen (Zhongshan) University*
+- *B.S. degree, Sun Yat-Sen (Zhongshan) University*, 2017 - 2021
     -- majored in Software Engineering from [http://sdcs.sysu.edu.cn/ School of Data and Computer Science] (ranked 1/174)
     -- Yat-Sen Class in Yat-sen Honor College, an elite liberal undergraduate institution of SYSU
 
-- *Master student, Tsinghua University*
+- *Master student, Tsinghua University*, 2021 - Present
+    -- majored in Computer Sciences in [http://http://http://iiis.tsinghua.edu.cn/en/ Institute for Interdisciplinary Information Sciences(IIIS)]
 
 == Research Interests
 I have a wide range of interests in game theory, mechanism design, multi-agent systems, distributed system and blockchain systems. And my research style is interdisciplinary in general. Particularly, I am leveraging mechanism design, mathematics optimization, economics analysis, algorithms design, system evaluation and implementation to tackle the multi-agent systems, blockchain systems and game related problems. I will be very happy if you want to discuss these interdisciplinary fields with me. I am always enthusiastic to investigate different research topics. :)
@@ -39,6 +40,8 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 ~~~
 {}{img_left}{figures/gacha.png}{}{200}{100}{}
 *Canhui Chen* and Zhixuan Fang, "Gacha Game Analysis and Design," Proceedings of ACM SIGMETRICS (SIGMETRICS), June 2023.
+\n
+\[[./papers/gacha.pdf PDF]\]
 ~~~
 
 ~~~
@@ -66,7 +69,7 @@ Jiayuan Liu\*, *Canhui Chen\**, Lulu Zhou, Zhixuan Fang, "Real-Time Recursive Ro
 {}{img_left}{figures/paper_sharding.png}{}{200}{100}{}
 *Canhui Chen*, Qian Ma, Xu Chen, Jianwei Huang, "User Distributions in Shard-based Blockchain Network: Queueing Modeling, Game Analysis, and Protocol Design," Proceedings of the Twenty-second International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc'21). 2021.
 \n
-\[[./papers/mobihoc21.pdf PDF]\] \[[./slides/mobihoc21.pdf slides]\]
+\[[./papers/mobihoc21.pdf PDF]\] \[[./slides/mobihoc21.pdf slides]\] \[[https://mp.weixin.qq.com/s?src=11&timestamp=1675996687&ver=4341&signature=Az7WMtk01Q-mftHmUDlvv2o0At8reWFchmK4YvQrHUvp4MjjrY*TAjUICO4V1D8ApBj28RvBtE5VuR92J0HwCLHSpp2Z7e9aRQMyfniYPl4oKobvC6UV6eUTVOPXs*Td&new=1 report]\]
 ~~~
 
 ~~~
