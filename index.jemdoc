@@ -38,15 +38,22 @@ I have a wide range of interests in game theory, mechanism design, multi-agent s
 == Publications 
 
 ~~~
+{}{img_left}{figures/We-TIPS.png}{}{200}{100}{}
+*Canhui Chen* and Zhixuan Fang, "We-TIPS: Weak-Block-Based Transaction Inclusion Protocol with Signaling in DAG-based Blockchain," the 21th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), August 2023.
+\n
+\[[./papers/We-TIPS.pdf PDF]\]
+~~~
+
+~~~
 {}{img_left}{figures/gacha.png}{}{200}{100}{}
-*Canhui Chen* and Zhixuan Fang, "Gacha Game Analysis and Design," Proceedings of ACM SIGMETRICS (SIGMETRICS), June 2023.
+*Canhui Chen* and Zhixuan Fang, "Gacha Game Analysis and Design," Proceedings of the ACM on Measurement and Analysis of Computing Systems (ACM SIGMETRICS), June 2023.
 \n
 \[[./papers/gacha.pdf PDF]\]
 ~~~
 
 ~~~
 {}{img_left}{figures/pocw.png}{}{200}{100}{}
-*Canhui Chen\**, Zerui Cheng\*, Shutong Qu, Zhixuan Fang, "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm," Preprint.
+*Canhui Chen\**, Zerui Cheng\*, Shutong Qu, Zhixuan Fang, "Crowdsourcing Work as Mining: A Decentralized Computation and Storage Paradigm," the 7th Asia-Pacific Workshop on Networking (APNet'23), June 2023, (Poster). (* denotes the equal contributions)
 \n
 \[[https://arxiv.org/pdf/2211.06669.pdf PDF]\]
 ~~~
